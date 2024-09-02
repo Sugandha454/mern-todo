@@ -31,9 +31,12 @@ The frontend is a React application bootstrapped with Create React App. It provi
   $ `cd backend`
 
 2. Create a `.env` file in the backend directory and add the following variables:
-PORT=5000 <br\>
-ATLAS_URI=your_mongodb_connection_string<br\>
-JWT_SECRET=your_jwt_secret_key<br\>
+
+   PORT=5000
+
+   ATLAS_URI=your_mongodb_connection_string
+
+   JWT_SECRET=your_jwt_secret_key
 
 Replace `your_mongodb_connection_string` with your actual MongoDB connection string and `your_jwt_secret_key` with a secure random string for JWT token generation.
 
