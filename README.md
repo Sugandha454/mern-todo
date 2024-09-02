@@ -52,7 +52,6 @@ This runs the frontend app in development mode. Open [http://localhost:3000](htt
 
 For information on deploying the frontend, refer to the [deployment section](https://facebook.github.io/create-react-app/docs/deployment) in the Create React App documentation.
 
-(Add information about deploying the backend here)
 
 ## Learn More
 
