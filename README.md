@@ -7,7 +7,7 @@ This project is a full-stack todo application built using the MERN (MongoDB, Exp
 The project is divided into two main parts:
 
 - `frontend/`: React-based client-side application
-- `backend/`: Node.js and Express-based server-side application (not shown in the provided context, but assumed to exist)
+- `backend/`: Node.js and Express-based server-side application 
 
 ## Frontend
 
